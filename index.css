@@ -1,6 +1,5 @@
 html {
-	background-color: #DDE9F5;
-	background-color: #F8D775;
+	background-color: palegoldenrod;
 	box-shadow: 0 .2vw 0 0 black inset, .2vw 0 0 0 black inset, -.2vw 0 0 0 black inset, 0 -.2vw 0 0 black inset;
 }
 
@@ -32,7 +31,6 @@ body {
 }
 
 #title {
-	background-color: #DAA06D;
 	background-color: silver;
 	font-size: 100px;
 	width: 50%;
@@ -43,17 +41,16 @@ body {
 	font-family: serif;
 }
 #index {
-	background-color: red;
+	background-color: lightcoral;
 }
 #rules {
-	background-color: green;
+	background-color: palegreen;
 }
 #next {
-	background-color: blue;
+	background-color: cornflowerblue;
 }
 .selected {
-	background-color: #DDE9F5 !important;
-	background-color: #F8D775 !important;
+	background-color: palegoldenrod !important;
 	box-shadow: 0 .2vw 0 0 black inset, .2vw 0 0 0 black inset, -.2vw 0 0 0 black inset;
 }
 
