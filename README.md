@@ -1,6 +1,6 @@
 # RFC
 
-A simple site describing `Rogue's Folderbuilding Challenge` format for the Mega Man Battle Network and Mega Man Star Force series.
+A simple site describing `Rogue's Folder Challenge` format for the Mega Man Battle Network and Mega Man Star Force series.
 
 ## Description 
 
