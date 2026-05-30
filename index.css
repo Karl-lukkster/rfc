@@ -1,5 +1,5 @@
 html {
-	background-color: palegoldenrod;
+	background-color: Wheat;
 	box-shadow: 0 .2vw 0 0 black inset, .2vw 0 0 0 black inset, -.2vw 0 0 0 black inset, 0 -.2vw 0 0 black inset;
 }
 
@@ -46,11 +46,14 @@ body {
 #rules {
 	background-color: palegreen;
 }
-#next {
+#docs {
 	background-color: cornflowerblue;
 }
+#next {
+	background-color: Violet;
+}
 .selected {
-	background-color: palegoldenrod !important;
+	background-color: Wheat !important;
 	box-shadow: 0 .2vw 0 0 black inset, .2vw 0 0 0 black inset, -.2vw 0 0 0 black inset;
 }
 
@@ -100,17 +103,18 @@ body {
 .docwrapper {
 	display: flex;
 	padding-top: 8px;
+	justify-content: center;
 }
 
 .doc {
 	background-color: black;
-	min-width: calc(907px/6);
-	min-height: 40px;
+	min-width: calc(907px/3);
+	min-height: 80px;
 	margin-right: 4px;
 	display: inline-block;
 	cursor: pointer;
 	background-size: cover;
-	box-shadow: 0 2px 0 0 black inset, 2px 0 0 0 black inset, -2px 0 0 0 black inset, 0 -2px 0 0 black inset;
+	box-shadow: 0 4px 0 0 black inset, 4px 0 0 0 black inset, -4px 0 0 0 black inset, 0 -4px 0 0 black inset;
 }
 
 #bn1 {
